@@ -96,3 +96,5 @@ Available as open source under the [MIT License](https://opensource.org/licenses
 
 Everyone interacting in sitemap.xmltool is expected to follow the [code of conduct](CODE_OF_CONDUCT.md).
 
+
+# PR Merge: 2026-06-12 18:06:44
